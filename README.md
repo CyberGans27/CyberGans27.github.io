@@ -1,2 +1,2 @@
-# CyberGans27.github.io
+# Ingvars Simanis
 My first test
